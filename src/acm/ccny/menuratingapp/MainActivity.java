@@ -3,6 +3,8 @@ package acm.ccny.menuratingapp;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+//hello
+
 
 public class MainActivity extends Activity {
 
